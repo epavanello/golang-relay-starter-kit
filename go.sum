@@ -1,5 +1,7 @@
 github.com/epavanello/golang-relay-starter-kit v0.0.0-20160302025933-f9113244f0f6 h1:6IaOKF0z5JNzpsnu6uyTSq7BzJHgYLKD5KdjEuV+q6I=
 github.com/epavanello/golang-relay-starter-kit v0.0.0-20160302025933-f9113244f0f6/go.mod h1:tDbY7i33rduh9i6CEU/pXtMqpQAKt5xNFZIaDO6+62U=
+github.com/epavanello/golang-relay-starter-kit v0.0.0-20210605145645-dcde8a299b1e h1:43kmmBiFXlCPE2ieu6hKani3Hu7riv2SFTHmZg2ibHo=
+github.com/epavanello/golang-relay-starter-kit v0.0.0-20210605145645-dcde8a299b1e/go.mod h1:tDbY7i33rduh9i6CEU/pXtMqpQAKt5xNFZIaDO6+62U=
 github.com/graphql-go/graphql v0.7.9 h1:5Va/Rt4l5g3YjwDnid3vFfn43faaQBq7rMcIZ0VnV34=
 github.com/graphql-go/graphql v0.7.9/go.mod h1:k6yrAYQaSP59DC5UVxbgxESlmVyojThKdORUqGDGmrI=
 github.com/graphql-go/handler v0.2.3 h1:CANh8WPnl5M9uA25c2GBhPqJhE53Fg0Iue/fRNla71E=
