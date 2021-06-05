@@ -18,9 +18,9 @@ var viewer = &User{
 	Name: "Anonymous",
 }
 var widgets = []*Widget{
-	&Widget{"0", "What's-it"},
-	&Widget{"1", "Who's-it"},
-	&Widget{"2", "How's-it"},
+	{"0", "What's-it"},
+	{"1", "Who's-it"},
+	{"2", "How's-it"},
 }
 
 // Data accessors
